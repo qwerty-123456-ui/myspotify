@@ -4,4 +4,4 @@
 
 ## Click on the image!!
 
-![[image](ss.png)[https://qwerty-123456-ui.github.io/myspotify/]
+[![image](ss.png)](https://qwerty-123456-ui.github.io/myspotify/)
